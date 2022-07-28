@@ -1,0 +1,35 @@
+Subject 1
+	Channel: 18 - Limbic Lobe - Parahippocampal Gyrus - Brodmann area 34 	 Accuracy: 53.5%
+	Channel: 30 - Occipital Lobe - Fusiform Gyrus - Brodmann area 19 	 Accuracy: 53.5%
+	Channel: 29 - Occipital Lobe - Fusiform Gyrus - Brodmann area 19 	 Accuracy: 53.5%
+	Channel: 27 - Occipital Lobe - Lingual Gyrus - Brodmann area 18 	 Accuracy: 53.5%
+Subject 2
+	Channel: 25 - Temporal Lobe - Superior Temporal Gyrus - Brodmann area 38 	 Accuracy: 65.9%
+	Channel: 43 - Occipital Lobe - Lingual Gyrus - Brodmann area 18 	 Accuracy: 65.9%
+	Channel: 41 - Temporal Lobe - Inferior Temporal Gyrus - Brodmann area 20 	 Accuracy: 65.9%
+	Channel: 42 - Occipital Lobe - Lingual Gyrus - Brodmann area 18 	 Accuracy: 65.9%
+Subject 3
+	Channel: 9 - Anterior Lobe - * - Dentate 	 Accuracy: 59.4%
+	Channel: 8 - Anterior Lobe - * - Dentate 	 Accuracy: 59.4%
+	Channel: 5 - Anterior Lobe - * - Dentate 	 Accuracy: 59.4%
+	Channel: 7 - Anterior Lobe - * - Dentate 	 Accuracy: 59.4%
+Subject 4
+	Channel: 1 - Limbic Lobe - Parahippocampal Gyrus - Brodmann area 36 	 Accuracy: 61.1%
+	Channel: 23 - Temporal Lobe - Fusiform Gyrus - Brodmann area 37 	 Accuracy: 61.1%
+	Channel: 31 - Frontal Lobe - Inferior Frontal Gyrus - Brodmann area 47 	 Accuracy: 61.1%
+	Channel: 20 - Occipital Lobe - Fusiform Gyrus - Brodmann area 19 	 Accuracy: 61.1%
+Subject 5
+	Channel: 4 - Temporal Lobe - Superior Temporal Gyrus - Brodmann area 38 	 Accuracy: 53.2%
+	Channel: 0 - Limbic Lobe - Parahippocampal Gyrus - Brodmann area 35 	 Accuracy: 53.2%
+	Channel: 6 - Temporal Lobe - Superior Temporal Gyrus - Brodmann area 38 	 Accuracy: 53.2%
+	Channel: 1 - Limbic Lobe - Parahippocampal Gyrus - Brodmann area 36 	 Accuracy: 53.2%
+Subject 6
+	Channel: 4 - Frontal Lobe - Middle Frontal Gyrus - Brodmann area 46 	 Accuracy: 63.8%
+	Channel: 2 - Frontal Lobe - Superior Frontal Gyrus - Brodmann area 10 	 Accuracy: 63.8%
+	Channel: 24 - Occipital Lobe - Cuneus - Brodmann area 18 	 Accuracy: 63.8%
+	Channel: 21 - Limbic Lobe - Parahippocampal Gyrus - Brodmann area 19 	 Accuracy: 63.8%
+Subject 7
+	Channel: 37 - Occipital Lobe - Fusiform Gyrus - Brodmann area 19 	 Accuracy: 51.1%
+	Channel: 45 - Frontal Lobe - Superior Frontal Gyrus - Brodmann area 9 	 Accuracy: 51.1%
+	Channel: 42 - Frontal Lobe - Superior Frontal Gyrus - Brodmann area 10 	 Accuracy: 51.1%
+	Channel: 46 - Frontal Lobe - Superior Frontal Gyrus - Brodmann area 9 	 Accuracy: 51.1%
